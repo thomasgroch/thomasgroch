@@ -13,7 +13,7 @@ Podemos conversar sobre **vue, laravel, linux** e afins  [fale comigo](https://t
 
 Obrigado pela visita e eu adoraria me conectar!
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/thomasgroch?style=social)](https://www.twitter.com/thomasgroch) -->
-[![GitHub followers](https://img.shields.io/github/followers/thomasgroch?style=social)](https://www.github.com/thomasgroch)
-[![Linkedin Badge](https://img.shields.io/badge/-thomasgroch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasgroch/)](https://www.linkedin.com/in/thomasgroch/)
 [![Website Badge](https://img.shields.io/badge/-thomasgroch-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=https://thomasgroch.xyz)](https://thomasgroch.xyz/)
+[![Linkedin Badge](https://img.shields.io/badge/-thomasgroch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasgroch/)](https://www.linkedin.com/in/thomasgroch/)
+[![GitHub followers](https://img.shields.io/github/followers/thomasgroch?style=social)](https://www.github.com/thomasgroch)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/thomasgroch?style=social)](https://www.twitter.com/thomasgroch) -->
