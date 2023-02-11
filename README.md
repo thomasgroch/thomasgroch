@@ -1,18 +1,16 @@
 <h1 align="center">Olá, sou Thomas Letsch Groch <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">É um prazer vê-lo aqui!</h3>
 
-Trabalho como desenvolvimento web no Brasil (🇧🇷) desde 1995 e atualmente sou **Tech Lead Web Full Stack**. Sou apaixonado por projetos open source e sempre adorei produzir muito conteúdo durante minha carreira.
+Trabalho como desenvolvimento web no Brasil (🇧🇷) desde 1995 e atualmente sou **desenvolvedor Web Full Stack**. Sou apaixonado por projetos open source e sempre adorei produzir muito conteúdo durante minha carreira. 💼 
 
-Procuro sempre trabalhar com uma pitada de diversão, buscando aprender coisas novas com os outros, tanto quanto de ajudar a resolver seus problemas. Acredito em um mundo livre onde tudo é gratuito e todos são livres para experimentar, aprender, criar e prosperar prospectando por um futuro melhor e com tecnologia verde.
+Procuro aprender coisas novas com os outros, tanto quanto ajudar a resolver seus problemas com uma dose de diversão. Acredito em um mundo livre onde tudo é gratuito e todos são livres para experimentar, aprender, criar e prosperar prospectando por um futuro melhor e com tecnologia verde. 🔭
 
-No meu tempo livre gosto de jogar jogos (🎮), assistir filmes (🎞️), séries (📺), ler livros (📚), ouvir música (🎵).
+Alguns dos [meus projetos](https://thomasgroch.xyz/projetos.html) disponíveis. 👨‍💻
 
-Ainda não consigo oferecer um café (☕) por aqui, mas podemos conversar sobre qualquer coisa sobre **vue, laravel, linux stack** e tecnologias relacionadas, internet e afins <a target="_blank" href="https://thomasgroch.xyz/contato.html">fale comigo</a>.
+No meu tempo livre gosto de jogar jogos (🎮), assistir filmes (🎞️), séries (📺), ler livros (📚) e ouvir música (🎵).
 
-- 💼 Trabalhando em inovação e aceitando alguns freelas.
-- 🔭 Atualmente, estou trabalhando em meus dotfiles.
-- 👨‍💻 Alguns dos [meus projetos](https://thomasgroch.xyz/projetos.html) disponíveis.
-- 📫 Você pode me encontrar pelo formulário de **[contato](https://thomasgroch.xyz/contato.html)**.
+Podemos conversar sobre **vue, laravel, linux** e afins  [fale comigo](https://thomasgroch.xyz/contato.html). 📫
+
 <div align="center">
 	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasgroch&show_icons=true&theme=radical" alt="thomasgroch" /></p>
 	<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgroch&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -23,36 +21,36 @@ Ainda não consigo oferecer um café (☕) por aqui, mas podemos conversar sobre
 <tr><td valign="top" width="50%" style="background-color: #FFF;"><div align="center">
 
 #### Linguagens de programação
-<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
 
 #### Desenvolvimento de Backend
-<img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
 <img src="https://logo.clearbit.com/roots.io" alt="bedrock" width="40" height="40" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" />
 
 #### Base de dados
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
 
 </td><td valign="top" width="50%"><div align="center">
 
 #### Desenvolvimento Frontend
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40" />
 <img src="https://logo.clearbit.com/parceljs.org" alt="parcel" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
 <img src="https://logo.clearbit.com/bulma.io" alt="bulma" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/Sapper.svg" alt="sapper" width="40" height="40" />
@@ -68,15 +66,15 @@ Ainda não consigo oferecer um café (☕) por aqui, mas podemos conversar sobre
 <tr><td valign="top" width="50%"><div align="center">
 
 #### Softwares
-<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/stenciljs/stenciljs-icon.svg" alt="stencil" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 
 #### Devops
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
 
 
