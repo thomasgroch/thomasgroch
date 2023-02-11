@@ -11,7 +11,7 @@ No meu tempo livre gosto de jogar jogos (🎮), assistir filmes (🎞️), séri
 
 Podemos conversar sobre **vue, laravel, linux** e afins  [fale comigo](https://thomasgroch.xyz/contato.html). 📫
 
-Obrigado pela visita e eu adoraria me conectar!
+Obrigado pela visita!
 
 [![Website Badge](https://img.shields.io/badge/-thomasgroch-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=https://thomasgroch.xyz)](https://thomasgroch.xyz/)
 [![Linkedin Badge](https://img.shields.io/badge/-thomasgroch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasgroch/)](https://www.linkedin.com/in/thomasgroch/)
