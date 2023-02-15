@@ -5,8 +5,7 @@ Trabalho como desenvolvimento web no Brasil (🇧🇷) desde 1995 e atualmente s
 
 Procuro aprender coisas novas com os outros, tanto quanto ajudar a resolver seus problemas com uma dose de diversão. Acredito em um mundo livre onde tudo é gratuito e todos são livres para experimentar, aprender, criar e prosperar prospectando por um futuro melhor e com tecnologia verde. 🔭
 
-Alguns dos [meus projetos](https://thomasgroch.xyz/projetos) disponíveis. 👨‍💻
-E [minha lista de skills](https://thomasgroch.xyz/stack).
+Alguns dos [meus projetos](https://thomasgroch.xyz/projetos) disponíveis e [minha lista de skills](https://thomasgroch.xyz/stack). 👨‍
 
 No meu tempo livre gosto de jogar jogos (🎮), assistir filmes (🎞️), séries (📺), ler livros (📚) e ouvir música (🎵).
 
