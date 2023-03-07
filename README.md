@@ -13,5 +13,7 @@ Podemos conversar sobre **vue, laravel, linux** e afins  [fale comigo](https://t
 
 Obrigado pela visita!
 
+❗Temporariamente você pode acessar [meu site por esse link](https://thomasgroch.netlify.app/). ❗
+
 [![Website Badge](https://img.shields.io/badge/-thomasgroch-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=https://thomasgroch.xyz)](https://thomasgroch.xyz/)
 [![Linkedin Badge](https://img.shields.io/badge/-thomasgroch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasgroch/)](https://www.linkedin.com/in/thomasgroch/)
