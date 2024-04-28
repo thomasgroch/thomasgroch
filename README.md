@@ -4,11 +4,11 @@ Sou um **desenvolvedor web Full Stack**, atuando no Brasil (🇧🇷) desde 1995
 
 Busco constantemente aprender com outras pessoas e ajudá-las a resolver seus problemas, sempre com uma dose de diversão. Acredito em um mundo livre onde todos possam experimentar, aprender, criar e prosperar, buscando um futuro melhor e mais sustentável com tecnologia verde. 🔭
 
-Em relação aos [meus projetos](https://thomasgroch.xyz/projetos), disponho de uma [lista de habilidades](https://thomasgroch.xyz/stack) em que tenho experiência. Além disso, em meu tempo livre, gosto de jogar jogos (🎮), assistir filmes (🎞️), séries (📺), ler livros (📚) e ouvir música (🎵).
+Em relação aos [meus projetos](https://0x0t.xyz/projetos), disponho de uma [lista de habilidades](https://0x0t.xyz/stack) em que tenho experiência. Além disso, em meu tempo livre, gosto de jogar jogos (🎮), assistir filmes (🎞️), séries (📺), ler livros (📚) e ouvir música (🎵).
 
-Caso tenha interesse em conversar sobre vue, laravel, linux ou outros assuntos relacionados, fique à vontade para [entrar em contato comigo](https://thomasgroch.xyz/contato.html). 📫
+Caso tenha interesse em conversar sobre vue, laravel, linux ou outros assuntos relacionados, fique à vontade para [entrar em contato comigo](https://0x0t.xyz/contato.html). 📫
 
 Agradeço novamente pela visita
 
-[![Website Badge](https://img.shields.io/badge/-thomasgroch-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=https://thomasgroch.xyz)](https://thomasgroch.xyz/)
+[![Website Badge](https://img.shields.io/badge/-thomasgroch-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=https://0x0t.xyz)](https://0x0t.xyz/)
 [![Linkedin Badge](https://img.shields.io/badge/-thomasgroch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasgroch/)](https://www.linkedin.com/in/thomasgroch/)
