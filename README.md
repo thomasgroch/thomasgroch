@@ -1,6 +1,6 @@
 <h1 align="center">Olá, meu nome é Thomas Letsch Groch <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">e fico feliz em recebê-lo aqui!</h3>
-Sou um **desenvolvedor web Full Stack**, atuando no Brasil (🇧🇷) desde 1995. Durante minha carreira, sempre me interessei por projetos open source. 💼
+Sou um **desenvolvedor web**, atuando no Brasil (🇧🇷) desde 1995. Durante minha carreira, sempre me interessei por projetos open source. 💼
 
 Busco constantemente aprender com outras pessoas e ajudá-las a resolver seus problemas, sempre com uma dose de diversão. Acredito em um mundo livre onde todos possam experimentar, aprender, criar e prosperar, buscando um futuro melhor e mais sustentável com tecnologia verde. 🔭
 
